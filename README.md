@@ -1,4 +1,4 @@
-# loan-approval-analysis
+
 # Loan Approval Analysis (Logistic Regression)
 
 This project analyzes loan applicant data to understand the factors that influence loan approval decisions.  
